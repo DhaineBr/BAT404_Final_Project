@@ -16,6 +16,6 @@ The number of unemployed individuals in the Philippines is estimated to be 4.8 p
 
 The addition of people leads to many individuals losing their jobs, which causes poverty among the population. The income earned by people is also insufficient due to the high cost of goods in our country, such as rice and food. Because of the lack of employment, some people work in other countries to meet their needs and provide a better future for their families.Therefore, it is better for our government to prioritize our agriculture and products to prevent the rise in prices and to support our farmers in their jobs.
 
-economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
+Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
 
 
