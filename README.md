@@ -16,6 +16,10 @@ The number of unemployed individuals in the Philippines is estimated to be 4.8 p
 
 The addition of people leads to many individuals losing their jobs, which causes poverty among the population. The income earned by people is also insufficient due to the high cost of goods in our country, such as rice and food. Because of the lack of employment, some people work in other countries to meet their needs and provide a better future for their families.Therefore, it is better for our government to prioritize our agriculture and products to prevent the rise in prices and to support our farmers in their jobs.
 
-Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
+Economic growth as a crucial means for
 
+ expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
 
+Significance of the project propose
+
+The proposed project in the Philippines will have a big impact on reducing unemployment and fostering economic development. It focuses on technology, agriculture, and business establishment throughout many regions in order to create jobs. This would result in better livelihoods, a decrease in poverty, and higher levels of living. The proposal would improve worker rights and welfare by fortifying the labor sector, which would guarantee fair working conditions. Additionally, by emphasizing sustainable activities, it supports the aims of sustainable development globally and promotes climate resilience and environmental protection. By encouraging cooperation between the government, employees, and employers, the project's inclusive approach promotes more equal results. The project's ability to create jobs, spur economic growth, combat poverty, enhance working conditions, support sustainable development, and promote social equity make it significant overall.
