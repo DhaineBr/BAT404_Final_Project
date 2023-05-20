@@ -16,6 +16,9 @@ The number of unemployed individuals in the Philippines is estimated to be 4.8 p
 
 
 Employment - promotes the creation of sustainable enterprises and increased efficiencies in the economy (requisites if countries are to move out of poverty). It also explores opportunities for increased investments in human resource development and improved working conditions and seeks to achieve full and productive employment.
+
 Rights at work - aims to strengthen observance of the constitutionally protected rights of workers. It seeks to ensure the ratification of core and governance conventions and respect for fundamental principles and rights at work.
+
 Social protection - seeks to improve access to social protection mechanisms, improved wages, better working conditions and expanded employment opportunities for all.
+
 Social dialogue - seeks to strengthen tripartism and broaden representation of workers as a tool for attaining employment goals.
