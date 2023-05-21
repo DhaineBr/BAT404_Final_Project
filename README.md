@@ -17,6 +17,8 @@ The addition of people leads to many individuals losing their jobs, which causes
 
 Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
 
+The rise of entrepreneurship and small company ventures is a crucial idea to take into account for alleviating unemployment and encouraging economic growth in the Philippines, in addition to giving agricultural priority and aiding farmers. Supporting and encouraging people to launch their own enterprises can lead to the creation of new jobs and economic growth.
+
 Significance of the Proposed Project
 
 The proposed project in the Philippines will have a big impact on reducing unemployment and fostering economic development. It focuses on technology, agriculture, and business establishment throughout many regions in order to create jobs. This would result in better livelihoods, a decrease in poverty, and higher levels of living. The proposal would improve worker rights and welfare by fortifying the labor sector, which would guarantee fair working conditions. Additionally, by emphasizing sustainable activities, it supports the aims of sustainable development globally and promotes climate resilience and environmental protection. By encouraging cooperation between the government, employees, and employers, the project's inclusive approach promotes more equal results. The project's ability to create jobs, spur economic growth, combat poverty, enhance working conditions, support sustainable development, and promote social equity make it significant overall.
