@@ -1,7 +1,6 @@
 # BAT404_Final_Project
 
 
-
 INTRODUCTION
 
 In the Philippines, it is important to have decent work and economic growth because many people are unemployed due to limited hiring by companies with high standards. SDG 8 of the United Nations aims to provide sufficient employment opportunities and promote the country's economic growth, which in turn helps reduce poverty and support families. The Philippines has an estimated population of 113,763,885 as of 2023, which leads to a high number of job vacancies and unemployment. The agriculture and industrial sectors make significant contributions to the country's economy. Their development is crucial in alleviating poverty and addressing economic challenges. 
