@@ -12,7 +12,7 @@ The Decent Work Country Programme (DWCP) Philippines 2020-2024  reflects shared 
 To achieve decent work and economic growth in the Philippines, it is necessary to strengthen technologies and agricultural practices to ensure sustainable growth and provide employment opportunities for the country's residents. Establishing businesses in various regions of the Philippines can also help address the problem of job mismatch, where individuals work in fields unrelated to their educational background, leading to discomfort and dissatisfaction. The attainment of decent work and economic development in the Philippines requires integrated efforts from the government. Strengthening the labor sector can provide opportunities for the population to access employment.
 
 
-![Header_SDG8_1920x680-v3-1](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/e81bc663-2a11-454d-ae5c-33444c25812f)
+![1556950102400](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/3e9972ad-40e3-425b-a08b-f0bf6ccb80f1)
 
 
 PROBLEM STATEMENT
