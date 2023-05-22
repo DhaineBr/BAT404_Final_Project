@@ -1,4 +1,4 @@
-# From Unemployment to Decent Work: Catalyzing Sustainable Development under SDG 8
+# From Unemployment to Decent Work: Catalyzing Sustainable Economic Growth
 
 ![SDG+8+graphic](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/27340a58-5d8a-4c90-9cfd-a0399e7dadf7)
 
@@ -20,9 +20,9 @@ To achieve decent work and economic growth in the Philippines, it is necessary t
 The number of unemployed individuals in the Philippines is estimated to be 4.8 percent, which translates to 2.37 million unemployed Filipinos. This is due to the large population in the Philippines and the insufficient number of available jobs, as new technological inventions are replacing human labor, resulting in many vacant positions. Another concern is the state of our economy, as it can be influenced by a recession, which leads to a contraction in business cycles. 
 
 The addition of people leads to many individuals losing their jobs, which causes poverty among the population. The income earned by people is also insufficient due to the high cost of goods in our country, such as rice and food. Because of the lack of employment, some people work in other countries to mee
-t their needs and provide a better future for their families.Therefore, it is better for our government to prioritize our agriculture and products to prevent the rise in prices and to support our farmers in their jobs.
+t their needs and provide a better future for their families. Therefore, it is better for our government to prioritize our agriculture and products to prevent the rise in prices and to support our farmers in their jobs.
 
-Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
+Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, 1999).
 
 The rise of entrepreneurship and small company ventures is a crucial idea to take into account for alleviating unemployment and encouraging economic growth in the Philippines, in addition to giving agricultural priority and aiding farmers. Supporting and encouraging people to launch their own enterprises can lead to the creation of new jobs and economic growth. 
 
@@ -35,3 +35,10 @@ The proposed project in the Philippines is crucial for tackling issues with unem
 # METHODS
 
 Sustainable Development Goal (SDG) 8, focuses on promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. Achieving SDG 8 requires addressing various challenges related to job creation, labor rights, economic productivity, and income inequality. Promoting decent work is essential for achieving sustainable development, reducing inequalities, and fostering inclusive economic growth. By prioritizing labor rights, fostering social dialogue, addressing informal employment, promoting gender equality, investing in education, supporting responsible business practices, and strengthening social protection, societies can create an enabling environment for decent work. Governments, employers, workers' organizations, and civil society must collaborate to implement these strategies, ensuring a brighter and more equitable future for all. By prioritizing decent work, we build the foundation for sustainable development and a more just and inclusive society.
+
+# EXPECTED OUTPUTS
+
+In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this study is to provide a comparative analysis between regions that have similarities when it comes to most factors affecting economic growth, yet differ when it comes to un/employment rate. The researchers will identify the driving factors of those regions that has relatively more success in the workforce's progress. The pratices done in those regions will also be analyzed by the researchers in order to determine what practices will be the most suitable for battling unemployment in the Philippines.
+
+
+
