@@ -26,7 +26,7 @@ Economic growth as a crucial means for expanding the substantive freedoms that p
 
 The rise of entrepreneurship and small company ventures is a crucial idea to take into account for alleviating unemployment and encouraging economic growth in the Philippines, in addition to giving agricultural priority and aiding farmers. Supporting and encouraging people to launch their own enterprises can lead to the creation of new jobs and economic growth.
 
-Significance of the Proposed Project
+SIGNIFICANCE OF THE PROPOSED PROJECT
 
 The proposed project in the Philippines will have a big impact on reducing unemployment and fostering economic development. It focuses on technology, agriculture, and business establishment throughout many regions in order to create jobs. This would result in better livelihoods, a decrease in poverty, and higher levels of living. The proposal would improve worker rights and welfare by fortifying the labor sector, which would guarantee fair working conditions. Additionally, by emphasizing sustainable activities, it supports the aims of sustainable development globally and promotes climate resilience and environmental protection. By encouraging cooperation between the government, employees, and employers, the project's inclusive approach promotes more equal results. The project's ability to create jobs, spur economic growth, combat poverty, enhance working conditions, support sustainable development, and promote social equity make it significant overall.
 
