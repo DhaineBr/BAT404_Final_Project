@@ -24,7 +24,7 @@ t their needs and provide a better future for their families.Therefore, it is be
 
 Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, A 1999).
 
-The rise of entrepreneurship and small company ventures is a crucial idea to take into account for alleviating unemployment and encouraging economic growth in the Philippines, in addition to giving agricultural priority and aiding farmers. Supporting and encouraging people to launch their own enterprises can lead to the creation of new jobs and economic growth.
+The rise of entrepreneurship and small company ventures is a crucial idea to take into account for alleviating unemployment and encouraging economic growth in the Philippines, in addition to giving agricultural priority and aiding farmers. Supporting and encouraging people to launch their own enterprises can lead to the creation of new jobs and economic growth. 
 
 # SIGNIFICANCE OF THE PROPOSED PROJECT
 
