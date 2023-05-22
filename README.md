@@ -3,7 +3,7 @@
 ![SDG+8+graphic](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/27340a58-5d8a-4c90-9cfd-a0399e7dadf7)
 
 
-INTRODUCTION
+# INTRODUCTION
 
 In the Philippines, it is important to have decent work and economic growth because many people are unemployed due to limited hiring by companies with high standards. SDG 8 of the United Nations aims to provide sufficient employment opportunities and promote the country's economic growth, which in turn helps reduce poverty and support families. The Philippines has an estimated population of 113,763,885 as of 2023, which leads to a high number of job vacancies and unemployment. The agriculture and industrial sectors make significant contributions to the country's economy. Their development is crucial in alleviating poverty and addressing economic challenges. 
 
@@ -15,7 +15,7 @@ To achieve decent work and economic growth in the Philippines, it is necessary t
 ![1556950102400](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/3e9972ad-40e3-425b-a08b-f0bf6ccb80f1)
 
 
-PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 The number of unemployed individuals in the Philippines is estimated to be 4.8 percent, which translates to 2.37 million unemployed Filipinos. This is due to the large population in the Philippines and the insufficient number of available jobs, as new technological inventions are replacing human labor, resulting in many vacant positions. Another concern is the state of our economy, as it can be influenced by a recession, which leads to a contraction in business cycles. 
 
@@ -26,13 +26,13 @@ Economic growth as a crucial means for expanding the substantive freedoms that p
 
 The rise of entrepreneurship and small company ventures is a crucial idea to take into account for alleviating unemployment and encouraging economic growth in the Philippines, in addition to giving agricultural priority and aiding farmers. Supporting and encouraging people to launch their own enterprises can lead to the creation of new jobs and economic growth.
 
-SIGNIFICANCE OF THE PROPOSED PROJECT
+# SIGNIFICANCE OF THE PROPOSED PROJECT
 
 The proposed project in the Philippines will have a big impact on reducing unemployment and fostering economic development. It focuses on technology, agriculture, and business establishment throughout many regions in order to create jobs. This would result in better livelihoods, a decrease in poverty, and higher levels of living. The proposal would improve worker rights and welfare by fortifying the labor sector, which would guarantee fair working conditions. Additionally, by emphasizing sustainable activities, it supports the aims of sustainable development globally and promotes climate resilience and environmental protection. By encouraging cooperation between the government, employees, and employers, the project's inclusive approach promotes more equal results. The project's ability to create jobs, spur economic growth, combat poverty, enhance working conditions, support sustainable development, and promote social equity make it significant overall.
 
 The proposed project in the Philippines is crucial for tackling issues with unemployment and economic expansion. By improving agricultural methods, agricultural technologies, and business establishment across various locations, it seeks to increase employment prospects. This will boost people's and their families' standard of living while also promoting the growth and development of the economy as a whole. The goal of the project is to provide people with possibilities for quality jobs that will help them escape poverty and advance social inclusion. By addressing job mismatches, enhancing labor market governance, and ensuring just working conditions, it also strives to improve the labor market. The project also supports the Philippines' commitment to the Sustainable Develoment Goals by encouraging sustainable technologies and practices, aiding in environmental protection, and promoting sustainable development. The project places a focus on triangular cooperation.
 
 
-METHODS
+# METHODS
 
 Sustainable Development Goal (SDG) 8, focuses on promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. Achieving SDG 8 requires addressing various challenges related to job creation, labor rights, economic productivity, and income inequality. Promoting decent work is essential for achieving sustainable development, reducing inequalities, and fostering inclusive economic growth. By prioritizing labor rights, fostering social dialogue, addressing informal employment, promoting gender equality, investing in education, supporting responsible business practices, and strengthening social protection, societies can create an enabling environment for decent work. Governments, employers, workers' organizations, and civil society must collaborate to implement these strategies, ensuring a brighter and more equitable future for all. By prioritizing decent work, we build the foundation for sustainable development and a more just and inclusive society.
