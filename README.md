@@ -1,11 +1,12 @@
-# From Unemployment to Decent Work: Catalyzing Sustainable Economic Growth
+# Economy Jigsaw: Understanding the Puzzle Pieces of the Philippines' Economic Trend
+### by the AnalyticPuzzlers
 
 ![SDG+8+graphic](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/27340a58-5d8a-4c90-9cfd-a0399e7dadf7)
 
 
 # INTRODUCTION
 
-In the Philippines, it is important to have decent work and economic growth because many people are unemployed due to limited hiring by companies with high standards. SDG 8 of the United Nations aims to provide sufficient employment opportunities and promote the country's economic growth, which in turn helps reduce poverty and support families. The Philippines has an estimated population of 113,763,885 as of 2023, which leads to a high number of job vacancies and unemployment. The agriculture and industrial sectors make significant contributions to the country's economy. Their development is crucial in alleviating poverty and addressing economic challenges.
+Several economic growth driving factors like labor inputs, employment rate, and GDP growth has shown significant and stable increase in the past decade [1]. Along with this, the average filipino household expenses and poverty rate has also increased [2]. Thus, the economic growth of the Philippines is somewhat complicated.
 
 The Decent Work Country Programme (DWCP) Philippines 2020-2024  reflects shared priorities of government, workers, and employers in the country, focusing on employment, labor market governance, and social protection to build back better.  The ILO provides support to its member States in the development of the DWCP aligned with national, social, and economic development priorities of different countries, to help move towards making decent work a reality and to sustain tripartite efforts in ways that are appropriate for them. The ILO contributes to the United Nations Development Assistance Framework (UNDAF) through the outcome of decent and productive employment for sustained, greener growth and other outcomes to support inclusive, sustainable, and resilient development in the Philippines. The greatest challenge for the Philippines is to drive the economy to a higher level of growth and job creation. Both real GDP per capital and labor productivity (MDG indicator) barely grew from 1999 to 2002 and it was only in recent years (except during that modest and sustained growth was achieved. The overall goal of Decent Work is to effect positive change in people’s lives at the national and local levels. In the Philippines, the Decent Work agenda is used to express employment aspirations and policy goals.
 
@@ -39,6 +40,11 @@ Sustainable Development Goal (SDG) 8, focuses on promoting sustained, inclusive,
 # EXPECTED OUTPUTS
 
 In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this study is to provide a comparative analysis between regions that have similarities when it comes to most factors affecting economic growth, yet differ when it comes to un/employment rate. The researchers will identify the driving factors of those regions that has relatively more success in the workforce's progress. The pratices done in those regions will also be analyzed by the researchers in order to determine what practices will be the most suitable for battling unemployment in the Philippines.
+
+
+# References
+
+[1] <a href="https://datacommons.org/place/country/PHL/?utm_medium=explore&mprop=amount&popt=EconomicActivity&cpv=activitySource,GrossDomesticProduction&hl=en#">Data Commons: Gross domestic product per capita in Philippines.</a>
 
 
 
