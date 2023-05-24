@@ -1,7 +1,7 @@
 # Economy Jigsaw: Understanding the Puzzle Pieces of the Philippines' Economic Trend
 ### by the AnalyticPuzzlers
 
-![SDG+8+graphic](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/27340a58-5d8a-4c90-9cfd-a0399e7dadf7)
+![Blue Sky Frame Holiday Photo Collage Landscape](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/814bdab1-80b6-41a4-ae03-89627a38912d)
 
 
 # INTRODUCTION
