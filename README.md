@@ -1,4 +1,4 @@
-# Economy Jigsaw: Understanding the Puzzle Pieces of the Philippines' Economic Trend
+# Economy Jigsaw: Understanding the Puzzle Pieces of the Philippines' Economic Growth
 ### by the AnalyticPuzzlers
 
 ![Blue Sky Frame Holiday Photo Collage Landscape](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/814bdab1-80b6-41a4-ae03-89627a38912d)
