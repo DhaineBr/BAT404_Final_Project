@@ -45,6 +45,7 @@ In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this stu
 # References
 
 [1] <a href="https://datacommons.org/place/country/PHL/?utm_medium=explore&mprop=amount&popt=EconomicActivity&cpv=activitySource,GrossDomesticProduction&hl=en#">Data Commons: Gross domestic product per capita in Philippines.</a>
+
 [2] <a href="https://www.ilo.org/manila/country/lang--en/index.htm>
 
 
