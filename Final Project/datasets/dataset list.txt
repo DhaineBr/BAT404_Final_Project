@@ -1,7 +1,0 @@
-001 - https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__3K__E2/0203K3F2030.px/table/tableViewLayout1/?rxid=227f6805-9732-41b6-981c-ac178832d6db
-002 - https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2B__GP__IN__PHL/0822B5CPPH2.px/table/tableViewLayout1/?rxid=46443534-ae91-47c3-847f-206b43f580b7
-003 - https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=PH
-004 - https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS?locations=PH
-005 - https://fred.stlouisfed.org/series/AVHWPEPHA065NRUG
-006 - https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__PI__CPI__2018/0012M4ACP11.px/table/tableViewLayout1/?rxid=f18df60f-478d-499f-9203-23ab067fcc5f
-007 - https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure
