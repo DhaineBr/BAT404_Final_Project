@@ -6,11 +6,7 @@
 
 # INTRODUCTION
 
-Several economic growth driving factors like labor inputs, employment rate, and GDP growth has shown significant and stable increase in the past decade [1]. Along with this, the average filipino household expenses and poverty rate has also increased [2]. Thus, the economic growth of the Philippines is somewhat complicated.
-
-The Decent Work Country Programme (DWCP) Philippines 2020-2024  reflects shared priorities of government, workers, and employers in the country, focusing on employment, labor market governance, and social protection to build back better.  The ILO provides support to its member States in the development of the DWCP aligned with national, social, and economic development priorities of different countries, to help move towards making decent work a reality and to sustain tripartite efforts in ways that are appropriate for them. The ILO contributes to the United Nations Development Assistance Framework (UNDAF) through the outcome of decent and productive employment for sustained, greener growth and other outcomes to support inclusive, sustainable, and resilient development in the Philippines. The greatest challenge for the Philippines is to drive the economy to a higher level of growth and job creation. Both real GDP per capital and labor productivity (MDG indicator) barely grew from 1999 to 2002 and it was only in recent years (except during that modest and sustained growth was achieved. The overall goal of Decent Work is to effect positive change in people’s lives at the national and local levels. In the Philippines, the Decent Work agenda is used to express employment aspirations and policy goals.
-
-To achieve decent work and economic growth in the Philippines, it is necessary to strengthen technologies and agricultural practices to ensure sustainable growth and provide employment opportunities for the country's residents. Establishing businesses in various regions of the Philippines can also help address the problem of job mismatch, where individuals work in fields unrelated to their educational background, leading to discomfort and dissatisfaction. The attainment of decent work and economic development in the Philippines requires integrated efforts from the government. Strengthening the labor sector can provide opportunities for the population to access employment.
+The Gross Domestic Product of the Philippines has been slowly, yet constantly growing. The changes were likely driven by factors like labor inputs, education, technological advancement, progress in every industries, and other. According to the Biswas (2023), the Philippines' economy is expected to grow rapidly over the next decade, with total GDP rising from USD 400 billion in 2021 to USD 830 billion in 2031. A key growth driver will be rapid growth in private consumption spending, buoyed by strong growth in urban household incomes [1]. Despite the optimistic outlook, Filipino trust ratings in business sectors has dipped from 75% in 2017 to 71% in 2019 (Philippine Trust Index, 2021). By 2021, the sector received a total of 66 percent trust on-ground rating — fewer respondents showed moderate trust in the sector at 48 percent, while the percentage of Filipinos who had extreme trust in the sector increased slightly to 18 percent [2]. The divided opinion about Philippines' economic growth is somewhat understandable, considering that the 
 
 
 ![1556950102400](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/3e9972ad-40e3-425b-a08b-f0bf6ccb80f1)
@@ -43,7 +39,8 @@ In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this stu
 
 # References
 
-[1] <a href="https://datacommons.org/place/country/PHL/?utm_medium=explore&mprop=amount&popt=EconomicActivity&cpv=activitySource,GrossDomesticProduction&hl=en#">Data Commons: Gross domestic product per capita in Philippines.</a>
+[1] <a href="https://www.spglobal.com/marketintelligence/en/mi/research-analysis/philippines-economy-shows-strong-expansion-jan23.html">Philippines economy shows strong expansion</a>
+[2] <a href="https://newsinfo.inquirer.net/1521398/filipinos-trust-in-business-sector-dips-unchanged-in-5-other-institutions">Filipinos’ trust in business sector dips, unchanged in 5 other institutions</a>
 
 
 
