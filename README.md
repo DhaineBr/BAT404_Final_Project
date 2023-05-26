@@ -27,7 +27,7 @@ The proposed project in the Philippines is crucial for tackling issues with unem
 
 # METHODS
 
-Sustainable Development Goal (SDG) 8, focuses on promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. Achieving SDG 8 requires addressing various challenges related to job creation, labor rights, economic productivity, and income inequality. Promoting decent work is essential for achieving sustainable development, reducing inequalities, and fostering inclusive economic growth. By prioritizing labor rights, fostering social dialogue, addressing informal employment, promoting gender equality, investing in education, supporting responsible business practices, and strengthening social protection, societies can create an enabling environment for decent work. Governments, employers, workers' organizations, and civil society must collaborate to implement these strategies, ensuring a brighter and more equitable future for all. By prioritizing decent work, we build the foundation for sustainable development and a more just and inclusive society.
+Sustainable Development Goal (SDG) 8, focuses on promoting sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. Achieving SDG 8 requires addressing various challenges related to job creation, labor rights, economic productivity, and income inequality. To do this, the researchers will conduct this study by analyzing and comparing datasets from Philippine Statistics Authority (PSA) [4]. Behavioral patterns will be compared to determine which has the highest correlation with Inflation rate and Consumer Price Index (CPI). After that, the factor that behaves similar with inflation and CPI would be examined for the researches to be able to formulate feasible  recommendations aiming to address the issue. Since the datasets that'll be used contains progression over the span of eight (8) years, it is expected that the researchers will frequently use line chart, bar chart, and similar charts that represents progression for the data visualization part.
 
 # EXPECTED OUTPUTS
 
@@ -43,6 +43,6 @@ In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this stu
 
 [3] <a href="https://sdgs.un.org/goals/goal8">Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </a>
 
-
+[4] <a href ="at.psa.gov.ph/">Philippine Statistics Authority Database</a>
 
 
