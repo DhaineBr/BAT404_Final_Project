@@ -24,8 +24,11 @@ The general economic dynamics and the elements causing this phenomenon raises qu
 This study gives an idea and how to give a solution to the poverty and increase the economic growth of our country. it will give our country a pattern of what it is going through and to provide a solution. SDG 8.1 For the purpose of decreasing poverty and raising both individual and collective living standards, sustained economic growth is essential. The report acknowledges the need to pull people out of severe poverty and give them greater possibilities for a good existence by striving for a high GDP growth rate, especially in the least developed nations. This research aims to know what to do and to help other countries that will have similar problems like this so that they can fight and know what to do to identify the problems they are suffering from.This study also shows the existence of decent work for every citizen in our country so that they can have a decent job.
 
 •	Consumers -  ensures that all citizens, young or old, will have a decent work opportunity. regardless of age or gender people will have access to work. This includes fair wages, safe working conditions, and social protection. 
+
 • Msme -  guarantees that small businesses will be supported to grow and create jobs. its purpose is to provide support in technologies and studies for Msme to develop and grow for the economy of our country.
+
 • Government - the government is responsible for providing the law and how to provide a good way to increase economic growth. and implementing a full employment and ensuring labor rights and protection.
+
 • Researchers - This will give an idea to the future researchers who will do this and they will have knowledge that will help in their development project and what are the methods of analyzing data and making graphs to determine what is the reason and the solution.
 
 
