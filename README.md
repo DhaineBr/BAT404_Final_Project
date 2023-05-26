@@ -11,7 +11,7 @@ The Gross Domestic Product of the Philippines has been slowly, yet constantly gr
 
 ![1556950102400](https://github.com/DhaineBr/BAT404_Final_Project/assets/134112320/3e9972ad-40e3-425b-a08b-f0bf6ccb80f1)
 
-The research will focus on Sustainable Development Goal (SDG) 8 where the researchers will provide insights that help promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. Particularly, through Target 8.1 which aims to Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 percent gross domestic product growth per annum in the least developed countries.
+The research will focus on Sustainable Development Goal (SDG) 8 where the researchers will provide insights that help promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all. Particularly, through Target 8.1 which aims to Sustain per capita economic growth in accordance with national circumstances and, in particular, at least 7 percent gross domestic product growth per annum in the least developed countries [3].
 
 # PROBLEM STATEMENT
 
@@ -31,13 +31,17 @@ Sustainable Development Goal (SDG) 8, focuses on promoting sustained, inclusive,
 
 # EXPECTED OUTPUTS
 
-In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this study is to provide a comparative analysis between regions that have similarities when it comes to most factors affecting economic growth, yet differ when it comes to un/employment rate. The researchers will identify the driving factors of those regions that has relatively more success in the workforce's progress. The pratices done in those regions will also be analyzed by the researchers in order to determine what practices will be the most suitable for battling unemployment in the Philippines.
+In furtherance of the Sustainable Development Goal (SDG) 8, the goal of this study is to provide insights about the underlying factors that influence the economic growth of the Philippines. Since the factors isn't easy to determine, it is expected that the researchers will use different datasets where they'll base their recommendations in resolving the problem of inflation in the Philipines. By examining the correlations between different aspects of the economy, the researchers should be able to come up with feasible recommendations that would not only resolve the particular problem present in the conducted study, but also contribute to the overall advancement of Sustainable Development Goal 8. 
 
 
 # References
 
 [1] <a href="https://www.spglobal.com/marketintelligence/en/mi/research-analysis/philippines-economy-shows-strong-expansion-jan23.html">Philippines economy shows strong expansion</a>
+
 [2] <a href="https://newsinfo.inquirer.net/1521398/filipinos-trust-in-business-sector-dips-unchanged-in-5-other-institutions">Filipinos’ trust in business sector dips, unchanged in 5 other institutions</a>
+
+
+[3] <a href="https://sdgs.un.org/goals/goal8">Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </a>
 
 
 
