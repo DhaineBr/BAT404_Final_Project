@@ -20,8 +20,7 @@ To achieve decent work and economic growth in the Philippines, it is necessary t
 
 The number of unemployed individuals in the Philippines is estimated to be 4.8 percent, which translates to 2.37 million unemployed Filipinos. This is due to the large population in the Philippines and the insufficient number of available jobs, as new technological inventions are replacing human labor, resulting in many vacant positions. Another concern is the state of our economy, as it can be influenced by a recession, which leads to a contraction in business cycles. 
 
-The addition of people leads to many individuals losing their jobs, which causes poverty among the population. The income earned by people is also insufficient due to the high cost of goods in our country, such as rice and food. Because of the lack of employment, some people work in other countries to mee
-t their needs and provide a better future for their families. Therefore, it is better for our government to prioritize our agriculture and products to prevent the rise in prices and to support our farmers in their jobs.
+The addition of people leads to many individuals losing their jobs, which causes poverty among the population. The income earned by people is also insufficient due to the high cost of goods in our country, such as rice and food. Because of the lack of employment, some people work in other countries to meet their needs and provide a better future for their families. Therefore, it is better for our government to prioritize our agriculture and products to prevent the rise in prices and to support our farmers in their jobs.
 
 Economic growth as a crucial means for expanding the substantive freedoms that people value. These freedoms are strongly associated with improvements in general living standards, such as greater opportunities for people to become healthier, eat better and live longer (Sen, 1999).
 
